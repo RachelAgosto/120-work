@@ -1,0 +1,1 @@
+So for this week we learned about to utilize functions using arrays which is another loop function. This week my project is a cute chubby smiley face. This week I struggled to get things to work so I asked for some help from my brother who is also in this class.
